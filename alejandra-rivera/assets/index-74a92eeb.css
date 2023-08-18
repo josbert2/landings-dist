@@ -34,25 +34,25 @@
       src: url(../assets/fonts/FontsFree-Net-AlbraBold.ttf);
     }
   }
-  .landing-container .landing-container .mkp-black {
+ .landing-container .mkp-black {
     font-family: markpro-black, sans-serif;
   }
-  .landing-container .landing-container .mkp-bold {
+   .landing-container .mkp-bold {
     font-family: markpro-bold, sans-serif;
     font-weight: 900;
   }
-  .landing-container .landing-container .mkp-medium {
+  .landing-container .mkp-medium {
     font-family: markpro-medium, sans-serif;
   }
-  .landing-container .landing-container .FontsFree-Net-AlbraMedium {
+ .landing-container .FontsFree-Net-AlbraMedium {
     font-family: FontsFree-Net-AlbraMedium, sans-serif;
     font-weight: 900;
   }
-  .landing-container .landing-container .FontsFree-Net-AlbraBold {
+  .landing-container .FontsFree-Net-AlbraBold {
     font-family: FontsFree-Net-AlbraBold, sans-serif;
     font-weight: 900;
   }
-  .landing-container .landing-container body {
+ .landing-container body {
     color-scheme: light dark;
     color: #1d252d;
     font-synthesis: none;
@@ -656,7 +656,7 @@
       width: 66.666667%;
     }
   }
-  .landing-container * {
+  * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
