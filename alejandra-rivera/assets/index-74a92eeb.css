@@ -1,38 +1,38 @@
 @font-face {
-    .landing-container {
+    
       font-family: markpro;
       src: url(./Mark-Pro.ttf);
-    }
+
   }
   @font-face {
-    .landing-container {
+    
       font-family: markpro-black;
       src: url(./MarkPro-Black.otf);
-    }
+
   }
   @font-face {
-    .landing-container {
+    
       font-family: markpro-bold;
       src: url(./Mark-Pro-Bold.otf);
-    }
+
   }
   @font-face {
-    .landing-container {
+    
       font-family: markpro-medium;
       src: url(./Mark-Pro-Mediun.otf);
-    }
+
   }
   @font-face {
-    .landing-container {
+    
       font-family: FontsFree-Net-AlbraMedium;
       src: url(./FontsFree-Net-AlbraMedium.ttf);
-    }
+
   }
   @font-face {
-    .landing-container {
+    
       font-family: FontsFree-Net-AlbraBold;
       src: url(./FontsFree-Net-AlbraBold.ttf);
-    }
+    
   }
  .landing-container .mkp-black {
     font-family: markpro-black, sans-serif;
